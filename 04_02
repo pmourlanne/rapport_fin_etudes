@@ -1,0 +1,17 @@
+deuxième jour
+arrivée un peu plus tôt, 9h10
+
+encore quelques installations à faire, pour améliorer le worflow (bash-autocomplete)
+difficultés avec yum et repos EPEL
+
+J'ai enfin une mission précise.
+Un petit bout d'API à rajouter pour déplacer un call (aujourd'hui uniquement possible en interne)
+Même si cela fait ~8 mois que je n'ai pas fait de Django, je n'ai pas trop perdu, j'ai réussi à pondre le code sans trop de problème.
+Je vais être plus rapidement efficace qu'à Sketchfab puisque je n'ai plus Django à appréhender.
+Cela dit la codebase et l'infrastructure générale est beaucoup plus importante
+
+Antoine m'a ramené plein de matériel pour réparer le gyrophare, je ne sais pas s'il s'attend vraiment àc e que je le répare.
+
+Antoine et Alexandru ne me donnent pas les mêmes instructions, c'est attendu mais c'est toujours frustrant.
+
+La taille des données manipulées font que les scripts de ré-initialisation des bases de test sont longs à faire tourner, cela peut faire sortir de la zone. Les scripts sont là en tout cas, c'est un gros plus.

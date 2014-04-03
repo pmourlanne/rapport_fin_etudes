@@ -15,3 +15,5 @@ Antoine m'a ramené plein de matériel pour réparer le gyrophare, je ne sais pa
 Antoine et Alexandru ne me donnent pas les mêmes instructions, c'est attendu mais c'est toujours frustrant.
 
 La taille des données manipulées font que les scripts de ré-initialisation des bases de test sont longs à faire tourner, cela peut faire sortir de la zone. Les scripts sont là en tout cas, c'est un gros plus.
+
+Ils n'utilisent pas d'ORM, les requêtes SQL sont écrites en dur dans le code. Pas sûr de la pertinence. Les ORM existant au début du projet n'étaient a priori pas adaptés aux besoins de l'équipe à l'époque (fonctionnalités et performance).

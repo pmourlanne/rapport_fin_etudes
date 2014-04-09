@@ -1,0 +1,8 @@
+je n'ai rien fait de la matinée
+
+quand je suis arrivé j'ai eu droit à une contre-revue de ma feature de la veille par Aurélien. Certaines remarques étaient sensées (il ne faut pas importer telle partie du code ici) mais d'autres remettaient en cause une partie de mon travail déjà validée par Alexandru.
+Quand j'ai eu fini ça, je me suis rendu compte qu'Alexandru et Antoine étaient en train de réparer un bout de ma feature qui posait problème. J'étais un peu déçu puisque j'ai vraiment envie de mener mon travail de bout en bout.
+
+Ensuite Antoine m'a expliqué quelques trucs sur Bacula, ce qu'on veut faire avec, ce qui a déjà été fait etc.
+
+L'après-midi je me suis amusé avec Heartbleed et j'ai bloqué sur la feature migrate_partner ...
